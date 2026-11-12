@@ -1,0 +1,13 @@
+# 模型文件太大（24MB），用 get_model.py 下载
+model/*.onnx
+model/vocab.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.idea/
+
+# 个人文件
+~$*
+*.pdf
